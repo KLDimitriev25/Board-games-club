@@ -8,7 +8,7 @@
 ## 👥 Екип
 - Team Leader / Scrum Trainer: __________________  
 - HTML Developer: __________________  
-- CSS Developer: __________________  
+- CSS Developer: Георги Красимиров Георгиев 8б  
 - Designer / Content Manager: __________________  
 
 ## Основни цели
